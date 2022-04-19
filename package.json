@@ -1,0 +1,23 @@
+{
+  "name": "iandm",
+  "version": "1.0.0",
+  "description": "I and M intial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inmdigitalfactory/omni-retail-web-test-bb.git#feature"
+  },
+  "author": "Rupa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inmdigitalfactory/omni-retail-web-test-bb/issues"
+  },
+  "homepage": "https://github.com/inmdigitalfactory/omni-retail-web-test-bb/tree/feature#readme",
+  "dependencies": {
+    "@playwright/test": "^1.21.1",
+    "prettier": "^2.6.2"
+  }
+}
